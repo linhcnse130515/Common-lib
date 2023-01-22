@@ -1,3 +1,4 @@
+org\example\service\mapper\EntityMapper.class
 org\example\security\CustomUserDetails.class
 org\example\security\JwtTokenProvider.class
 org\example\CustomWebConfigurer.class
